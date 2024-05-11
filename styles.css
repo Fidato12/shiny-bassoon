@@ -1,0 +1,31 @@
+body{
+    background-color: goldenrod;
+}
+.profile{
+    border-radius: 50%;
+    display: flex;
+    align-content: center;
+    width: 500px;
+}
+h1{
+    display: flex;
+     justify-content: center;}
+h2{
+    display: flex;
+    gap: 3rem;
+    margin-left: 15cm;
+    position: relative;
+    top: 0.5cm;
+    
+    
+}
+p{
+
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding: 10px;
+    background-color: gold;
+    margin-left: 5cm;
+
+}
